@@ -1,4 +1,5 @@
 # Zoo console program
+## PDF: [presentation.pdf](https://github.com/apostolouagg/Zoo/files/14547146/presentation.pdf)
 
 When the program starts running, the user is presented with a menu of options. The user must enter the number corresponding to the action they want to take. If the input provided by the user is not correct, appropriate error messages are displayed. 
 
@@ -56,6 +57,3 @@ By choosing option number 6, the user can delete an animal from the list. Initia
 Finally, by choosing option number 7, the user exits the application. 
 
 ![image](https://github.com/apostolouagg/Zoo/assets/61296853/c30eba12-159b-4880-bbfb-ae629be1ad5d)
-
-
-## PDF: [presentation.pdf](https://github.com/apostolouagg/Zoo/files/14547146/presentation.pdf)
