@@ -1,5 +1,5 @@
 # Zoo console program
-### PDF: [presentation.pdf](https://github.com/apostolouagg/Zoo/files/14547146/presentation.pdf)
+## PDF: [presentation.pdf](https://github.com/apostolouagg/Zoo/files/14547146/presentation.pdf)
 
 When the program starts running, the user is presented with a menu of options. The user must enter the number corresponding to the action they want to take. If the input provided by the user is not correct, appropriate error messages are displayed. 
 
