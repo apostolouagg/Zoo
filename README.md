@@ -1,3 +1,5 @@
+# Zoo console program
+
 When the program starts running, the user is presented with a menu of options. The user must enter the number corresponding to the action they want to take. If the input provided by the user is not correct, appropriate error messages are displayed. 
 
 The menu of options is displayed again after the completion of the selected action.
